@@ -42,7 +42,7 @@
 			<tr>
 				<th></th>
 				<td><input type='submit' value='save' />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="./index.jsp" target="_blank">|Home Page|</a>
+				<a href="./index.html" target="_blank">|Home Page|</a>
 				</td>
 			</tr>
 		</table>

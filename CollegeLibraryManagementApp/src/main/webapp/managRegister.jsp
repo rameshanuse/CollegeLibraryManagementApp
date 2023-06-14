@@ -35,7 +35,7 @@
 			<tr>
 				<th></th>
 				<td><input type="submit" value="register">&nbsp;&nbsp;&nbsp;
-				<a href="./index.jsp" >|Home Page|</a></td>
+				<a href="./index.html" >|Home Page|</a></td>
 			</tr>
 
 		</table>

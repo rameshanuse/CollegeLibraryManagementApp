@@ -22,7 +22,7 @@
 			<tr>
 				<th></th>
 				<td><input type="submit" value="login">&nbsp;&nbsp;&nbsp;
-				<a href="./index.jsp">|Home Page|</a></td>
+				<a href="./index.html">|Home Page|</a></td>
 				</td>
 			</tr>
 		</table>

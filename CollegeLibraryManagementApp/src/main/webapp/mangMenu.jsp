@@ -14,7 +14,7 @@
 	<a href="mangDeleteBook.jsp" target="body">REMOVE BOOKS</a><br/><br/>
 	<a href="mangIssueBook.jsp" target="body">ISSUE BOOK</a><br/><br/>	
 	<a href="./controller/libavailablebooks" target="body">AVAILABLE BOOKS</a><br/><br/>	
-	<a href="index.jsp" target="_blank">LOGOUT</a><br/><br/>	
+	<a href="index.html" target="_blank">LOGOUT</a><br/><br/>	
 </h3>
 </body>
 </html>
