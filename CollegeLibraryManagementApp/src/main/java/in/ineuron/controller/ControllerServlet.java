@@ -202,9 +202,6 @@ public class ControllerServlet extends HttpServlet {
 		
 	}
 
-	public void mangUpdateBookLib(HttpServletRequest request, HttpServletResponse response) {
-	}
-
 	public void mangRemoveBookLib(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("***Management Remove Book");
 		String bid = request.getParameter("bid");
@@ -304,9 +301,7 @@ public class ControllerServlet extends HttpServlet {
 		if (uri.endsWith("mangaddbooklib")) {
 			mangAddBookLib(request, response);
 		}
-		if (uri.endsWith("mangupdatebooklib")) {
-			mangUpdateBookLib(request, response);
-		}
+		
 		if (uri.endsWith("mangremovebooklib")) {
 			mangRemoveBookLib(request, response);
 		}

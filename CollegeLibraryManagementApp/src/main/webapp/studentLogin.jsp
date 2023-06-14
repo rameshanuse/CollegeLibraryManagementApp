@@ -28,10 +28,6 @@
 				<td><input type='submit' value='login' />&nbsp;&nbsp;&nbsp;&nbsp;
 				<a href="./index.html">|Home Page|</a></td>
 			</tr>
-			<tr>
-				<th></th>
-				
-			</tr>
 		</table>
 	</form>
 </body>
